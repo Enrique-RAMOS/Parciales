@@ -1,0 +1,174 @@
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Ejemplo_Capas.dll.config
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Ejemplo_Capas.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Ejemplo_Capas.pdb
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csc.exe
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csc.exe.config
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csc.rsp
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csi.exe
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csi.exe.config
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\csi.rsp
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.AppContext.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Console.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\vbc.exe
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\vbc.exe.config
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\vbc.rsp
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Antlr3.Runtime.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\EntityFramework.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Newtonsoft.Json.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Helpers.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Mvc.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Optimization.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Razor.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\WebGrease.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\EntityFramework.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Helpers.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Mvc.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Optimization.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.Razor.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Newtonsoft.Json.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Antlr3.Runtime.pdb
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csprojAssemblyReference.cache
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csproj.CoreCompileInputs.cache
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csproj.CopyComplete
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.dll
+C:\Users\Ramos\Documents\Visual Studio 2017\Proyectos\C#\Ejemplo_Capas\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.pdb
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Ejemplo_Capas.dll.config
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Ejemplo_Capas.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Ejemplo_Capas.pdb
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csc.exe
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csc.exe.config
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csc.rsp
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csi.exe
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csi.exe.config
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\csi.rsp
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.AppContext.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Console.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\vbc.exe
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\vbc.exe.config
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\vbc.rsp
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Antlr3.Runtime.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\EntityFramework.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Newtonsoft.Json.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Helpers.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Mvc.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Optimization.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Razor.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\WebGrease.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\EntityFramework.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Helpers.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Mvc.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Optimization.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.Razor.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Newtonsoft.Json.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Antlr3.Runtime.pdb
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csprojAssemblyReference.cache
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csproj.CoreCompileInputs.cache
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.csproj.CopyComplete
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.dll
+C:\Users\Ramos\Documents\GitHub\Parciales\Parcial_II\Ejemplo_Capas\obj\Debug\Ejemplo_Capas.pdb

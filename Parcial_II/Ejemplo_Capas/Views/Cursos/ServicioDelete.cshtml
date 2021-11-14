@@ -1,0 +1,25 @@
+﻿@model Ejemplo_Capas.Models.Courses
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ServicioDelete</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("ServicioDelete", "Cursos", FormMethod.Post))
+        {
+            <label>Coloque el ID que desea eliminar </label>
+            @Html.TextBoxFor(c => c.CouserId)
+            <br />
+            <br />
+            <input type="submit" value="Eliminar" />
+        }
+    </div>
+</body>
+</html>

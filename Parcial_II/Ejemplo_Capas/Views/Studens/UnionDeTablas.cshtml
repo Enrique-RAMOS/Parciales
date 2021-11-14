@@ -1,0 +1,65 @@
+﻿@model List<Ejemplo_Capas.Models.Erollements>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <title>UnionDeTablas</title>
+</head>
+<body>
+    <div>
+        <h1>Administrador de base de datos </h1>
+        <table border="2" id="Uniondetablas" class="table table-dark table-striped">
+            <thead>
+            <th>
+                ID Enrollement
+            </th>
+            <th>
+                ID Student
+            </th>
+            <th>
+                ID Course
+            </th>
+            <th>
+                Last name
+            </th>
+            <th>
+                First name
+            </th>
+            <th>
+                Curses of students
+            </th>
+            </thead>
+            <tbody>
+                @foreach (var interacion in Model)
+                {
+                    <tr>
+                        <td>@interacion.ErollementID</td>
+                        <td>@interacion.StudentID</td>
+                        <td>@interacion.CourseID</td>
+                        <td>@interacion.Students.LastName</td>
+                        <td>@interacion.Students.FirstMidName</td>
+                        <td>@interacion.Courses.Title</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+@section scripts{
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(Document).ready(function () {
+            var tablaCurso = $('#Uniondetablas').DataTable();
+
+        });
+
+    </script>
+
+}

@@ -1,0 +1,52 @@
+﻿@model List<Ejemplo_Capas.Models.Courses>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row" >
+    <div class="container">
+        <table class="table table-hover"id="tabladecursos">
+            <thead>
+            <th>
+                Course Id
+            </th>
+            <th>
+                Title
+            </th>
+            <th>
+                Credits
+            </th>
+            </thead>
+            <tbody>
+
+
+
+                @foreach (var item in Model)
+
+                {
+                <tr>
+                    <td>@item.CouserId </td>
+
+                    <td>@item.Title </td>
+
+                    <td>@item.Credits </td>
+                </tr>
+                        }
+                 
+                </tbody>
+            </table>
+
+    </div>
+
+    </div>
+@section scripts{
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(Document).ready(function () {
+            var tablaCurso = $('#tabladecursos').DataTable();
+
+        });
+
+    </script>
+    
+    }

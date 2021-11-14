@@ -1,0 +1,17 @@
+﻿
+@model Ejemplo_Capas.Models.Erollements
+@{
+    ViewBag.Title = "Combobox";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Combobox</h2>
+@using (Html.BeginForm("Combobox","home",FormMethod.Post)) { 
+
+@Html.DropDownListFor(a => a.StudentID, new SelectList(ViewBag.listOfStudentscombobox, "Value", "Text"), "Seleccione un estudiante", new { @class = "form-control" })
+<br>
+
+@Html.DropDownListFor(a => a.CourseID, new SelectList(ViewBag.listOfCoursescombobox, "Value", "Text"), "Seleccione un curso", new { @class = "form-control" })
+    <br />
+    <input type="submit" value="Ingresar"/>
+}

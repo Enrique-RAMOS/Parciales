@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EscuelaDeConexionesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="CouserId" />
+    </Key>
+    <Property Name="CouserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="Credits" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Erollements">
+    <Key>
+      <PropertyRef Name="ErollementID" />
+    </Key>
+    <Property Name="ErollementID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseID" Type="int" Nullable="false" />
+    <Property Name="StudentID" Type="int" Nullable="false" />
+    <Property Name="Grade" Type="int" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" />
+    <Property Name="FirstMidName" Type="nvarchar(max)" />
+    <Property Name="EnrrollmentsDate" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Erollements_Courses_CourseID">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="1" />
+    <End Role="Erollements" Type="Self.Erollements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="CouserId" />
+      </Principal>
+      <Dependent Role="Erollements">
+        <PropertyRef Name="CourseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Erollements_Students_StudentID">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Erollements" Type="Self.Erollements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Erollements">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EscuelaDeConexionesModelStoreContainer">
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Erollements" EntityType="Self.Erollements" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Erollements_Courses_CourseID" Association="Self.FK_Erollements_Courses_CourseID">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Erollements" EntitySet="Erollements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Erollements_Students_StudentID" Association="Self.FK_Erollements_Students_StudentID">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Erollements" EntitySet="Erollements" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

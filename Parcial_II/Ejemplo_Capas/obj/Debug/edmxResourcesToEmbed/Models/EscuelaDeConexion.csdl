@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EscuelaDeConexionesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="CouserId" />
+    </Key>
+    <Property Name="CouserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Credits" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Erollements" Relationship="Self.FK_Erollements_Courses_CourseID" FromRole="Courses" ToRole="Erollements" />
+  </EntityType>
+  <EntityType Name="Erollements">
+    <Key>
+      <PropertyRef Name="ErollementID" />
+    </Key>
+    <Property Name="ErollementID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseID" Type="Int32" Nullable="false" />
+    <Property Name="StudentID" Type="Int32" Nullable="false" />
+    <Property Name="Grade" Type="Int32" />
+    <NavigationProperty Name="Courses" Relationship="Self.FK_Erollements_Courses_CourseID" FromRole="Erollements" ToRole="Courses" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Erollements_Students_StudentID" FromRole="Erollements" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="FirstMidName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EnrrollmentsDate" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Erollements" Relationship="Self.FK_Erollements_Students_StudentID" FromRole="Students" ToRole="Erollements" />
+  </EntityType>
+  <Association Name="FK_Erollements_Courses_CourseID">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="1" />
+    <End Role="Erollements" Type="Self.Erollements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="CouserId" />
+      </Principal>
+      <Dependent Role="Erollements">
+        <PropertyRef Name="CourseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Erollements_Students_StudentID">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Erollements" Type="Self.Erollements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Erollements">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EscuelaDeConexionesEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Courses" EntityType="Self.Courses" />
+    <EntitySet Name="Erollements" EntityType="Self.Erollements" />
+    <EntitySet Name="Students" EntityType="Self.Students" />
+    <AssociationSet Name="FK_Erollements_Courses_CourseID" Association="Self.FK_Erollements_Courses_CourseID">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Erollements" EntitySet="Erollements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Erollements_Students_StudentID" Association="Self.FK_Erollements_Students_StudentID">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Erollements" EntitySet="Erollements" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
